@@ -1,2 +1,5 @@
 # Unimelb-Subject_Projects
-This repository will store the projects I took in University of Melbourne
+
+I will upload programming related projects I took in the University of Melbourne and my solutions here.
+
+
