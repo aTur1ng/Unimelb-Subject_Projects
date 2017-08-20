@@ -1,4 +1,4 @@
--- @author CHEN Zhengcheng 725439
+-- @author aTur1ng
 
 module Lab1 (subst, interleave, unroll) where
 
